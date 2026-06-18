@@ -1,4 +1,4 @@
-# Lab 3: Create a Virtual Machine
+## Lab 3: Create a Virtual Machine
 
 ## Overview
 
