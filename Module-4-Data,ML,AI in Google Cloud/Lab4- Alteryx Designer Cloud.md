@@ -1,4 +1,4 @@
-# Alteryx Designer Cloud (Dataprep) – FEC 2016 Data Wrangling Lab
+# Alteryx Designer Cloud in Google Skills
 
 ## Introduction
 
