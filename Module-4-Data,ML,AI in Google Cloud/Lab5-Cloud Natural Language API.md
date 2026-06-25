@@ -1,4 +1,4 @@
-# Cloud Natural Language API – Entity Analysis Lab
+# Cloud Natural Language API
 
 ## Introduction
 
