@@ -31,5 +31,4 @@ As part of my cloud computing learning journey, I completed multiple Google Clou
 * Artificial Intelligence Fundamentals
 
 
-*(Insert your badge screenshots here.)*
 
